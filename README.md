@@ -26,7 +26,7 @@ Creation of table and simple querying data works
 
 10.Find all countries whose names do not start with 'C'.
 
-##Table
+## Table
 Country
 ![Screenshot (179)](https://github.com/user-attachments/assets/b6843b55-509c-43dc-8b13-65945e6fc9f1)
 
