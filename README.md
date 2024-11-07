@@ -24,6 +24,16 @@ Creation of table and simple querying data works
 
 9.Find all countries with a population between 5 lakhs and 20 lakhs.
 
+##Table
+Country
+![Screenshot (179)](https://github.com/user-attachments/assets/b6843b55-509c-43dc-8b13-65945e6fc9f1)
+
+Person
+![Screenshot (180)](https://github.com/user-attachments/assets/1a134d2f-1352-43b8-a464-e9d3b16b19dc)
+
+
+
+
 10.Find all countries whose names do not start with 'C'.
 
 
