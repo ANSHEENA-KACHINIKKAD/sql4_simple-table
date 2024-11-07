@@ -1,6 +1,6 @@
 # Basic Querying data 
 ## Objective
-Craetion of table and simple querying data works
+Creation of table and simple querying data works
 ## Questions
 .Create a table called "Country".
 
